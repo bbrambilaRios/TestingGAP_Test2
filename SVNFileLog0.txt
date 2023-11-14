@@ -10,3 +10,5 @@ Remote branch 'origin/test/testBranch' has been pushed successfully.
 File 'C:\WebsitesGAP\testfile.txt' does not exist.
 Remote branch 'origin/test/testBranch' has been pushed successfully.
 Failed to delete file on Git repository
+Remote branch 'origin/test/testBranch' has been pushed successfully.
+File has been deleted successfully on Git repository.
