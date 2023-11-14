@@ -13,3 +13,4 @@ Failed to delete file on Git repository
 Remote branch 'origin/test/testBranch' has been pushed successfully.
 File has been deleted successfully on Git repository.
 Remote branch 'origin/test/testBranch' has been pushed successfully.
+Branch was cloned successfully.
