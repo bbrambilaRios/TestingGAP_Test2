@@ -1,2 +1,4 @@
 Remote branch 'origin/test/testBranch' has been pushed successfully.
 Failed to delete file on Git repository
+Remote branch 'origin/test/testBranch' has been pushed successfully.
+Remote branch 'origin/test/testBranch' has been pushed successfully.
